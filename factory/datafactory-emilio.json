@@ -1,0 +1,9 @@
+{
+	"name": "datafactory-emilio",
+	"location": "northeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f717c216-4934-4fbe-8eec-8a17de5861c5",
+		"tenantId": "2f4eae83-6559-489d-8ff3-e6cedce70adf"
+	}
+}
